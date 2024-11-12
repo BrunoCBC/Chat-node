@@ -3,8 +3,8 @@
 # Pré-requisitos
 Antes de rodar o projeto, você precisará ter as seguintes ferramentas instaladas na sua máquina:
 
-# Node.js
-# npm
+Node.js
+npm
 
 # Passo a Passo
 
@@ -40,9 +40,9 @@ http://localhost:3000
 
 A interface de chat será carregada. Você pode:
 
-# Entrar em uma sala: Escolha um nome de sala e um nome de usuário, e clique em "Entrar na Sala".
-# Enviar mensagens: Depois de entrar na sala, você poderá enviar mensagens que serão transmitidas em tempo real para todos os usuários na mesma sala.
-# Sair da sala: Quando desejar, clique em "Sair da Sala" para voltar à tela inicial de seleção.
+Entrar em uma sala: Escolha um nome de sala e um nome de usuário, e clique em "Entrar na Sala".
+Enviar mensagens: Depois de entrar na sala, você poderá enviar mensagens que serão transmitidas em tempo real para todos os usuários na mesma sala.
+Sair da sala: Quando desejar, clique em "Sair da Sala" para voltar à tela inicial de seleção.
 
 # 6. Parar o Servidor
 
