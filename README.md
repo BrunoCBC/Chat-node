@@ -1,12 +1,21 @@
 # Chat-node
 
-Este é um sistema de chat em tempo real utilizando Node.js e Socket.IO, onde os usuários podem entrar em diferentes salas de bate-papo e se comunicar instantaneamente. A comunicação é feita em tempo real usando WebSockets, e o frontend é simples, sem uso de frameworks, apenas com HTML, CSS e JavaScript.
+Este é um sistema de chat em tempo real utilizando **Node.js** e **Socket.IO**, onde os usuários podem entrar em diferentes salas de bate-papo e se comunicar instantaneamente. A comunicação é feita em tempo real usando WebSockets, e o frontend é simples, sem uso de frameworks, apenas com **HTML**, **CSS** e **JavaScript**.
 
-# Pré-requisitos
+---
+
+## **Pré-requisitos**
+
 Antes de rodar o projeto, você precisará ter as seguintes ferramentas instaladas na sua máquina:
 
-Node.js
-npm
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+Você pode verificar se o **Node.js** e o **npm** estão instalados corretamente executando os seguintes comandos no terminal:
+
+```bash
+node -v
+npm -v
 
 # Passo a Passo
 
