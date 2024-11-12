@@ -16,6 +16,7 @@ Você pode verificar se o **Node.js** e o **npm** estão instalados corretamente
 ```bash
 node -v
 npm -v
+```bash
 
 # Passo a Passo
 
